@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "babel-jest": "^28.0.3",
+    "ts-jest": "^28.0.1",
+    "ws": "^8.6.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
